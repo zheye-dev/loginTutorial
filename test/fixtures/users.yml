@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  crypted_password: MyString
+  password_salt: MyString
+  persistence_token: MyString
+  gender: 
+  realname: MyString
+  birthday: 2016-04-21
+  address: MyString
+  educationLevel: MyString
+  educationalExperience: MyString
+  currentPosition: MyString
+  jobExperience: MyString
+  selfIntroduction: MyString
+
+two:
+  username: MyString
+  crypted_password: MyString
+  password_salt: MyString
+  persistence_token: MyString
+  gender: 
+  realname: MyString
+  birthday: 2016-04-21
+  address: MyString
+  educationLevel: MyString
+  educationalExperience: MyString
+  currentPosition: MyString
+  jobExperience: MyString
+  selfIntroduction: MyString
